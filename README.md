@@ -18,3 +18,6 @@ hasil prediksi sepeda motor
 
 
 
+# referensi: 
+- https://github.com/mtobeiyf/keras-flask-deploy-webapp
+- https://roytuts.com/working-with-parent-and-child-templates-in-flask/
